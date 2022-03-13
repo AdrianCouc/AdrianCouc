@@ -6,7 +6,7 @@
 
 ### 🎓 I'm currently in a Cybersecurity Engineer School in France
 
-### 📱 Passionate by mobile device, I designed apps and games on iOS and Android
+### 📱 Passionate by mobile devices, I designed apps and games on iOS and Android
 
 ### Here's my mobile projects:
 - [Simy!](https://apps.apple.com/us/app/simy/id1491621628) 🎮
