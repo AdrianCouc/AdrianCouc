@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://thumbs.gfycat.com/BountifulAlienatedFugu-max-1mb.gif" />
+</p>
+
 ## 👋 Hi, I’m Adrian
 
 ### 🎓 I'm currently in a Cybersecurity Engineer School in France
